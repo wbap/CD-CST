@@ -9,11 +9,11 @@ If you don't have `gradle` yet, look at [this page](https://gradle.org/install/)
 
 2. Secondly, clone this code.
     ```
-    git clone git@github.com:orion46/myCognitiveDistance.git
+    git clone git@github.com:wbap/CD-CST.git
     ```
 
 3. Finally, run the code!
     ```
-    cd myCognitiveDistance
+    cd CD-CST
     gradle run
     ```
